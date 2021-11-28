@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me: 
    :office: [LinkedIn](https://www.linkedin.com/in/fathim/)
+   
+ [![Fathi's github stats](https://github-readme-stats.vercel.app/api?username=fathimhiri&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 

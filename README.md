@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to reach me: 
-- :office: [LinkedIn](https://www.linkedin.com/in/fathim/)
+   :office: [LinkedIn](https://www.linkedin.com/in/fathim/)
 
 
